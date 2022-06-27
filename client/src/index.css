@@ -1,0 +1,18 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image: url(https://wallpaperaccess.com/full/189711.jpg);
+  margin: 0;
+}
+
+#root{
+  min-height: 100%;   
+  display: grid;
+
+} 
+
+/* h1{
+  text-align: center;
+  font-weight: bold;   
+}
+ */
+

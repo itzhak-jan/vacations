@@ -1,0 +1,46 @@
+.Register {
+    display: block;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin: 20px;
+    background-color: white;
+    padding: 20px;
+    opacity: 70%;
+}
+
+.container{
+    width: 310px;
+}
+
+.birth-date{
+    margin: 5px;
+}
+ 
+.checkbox{
+    background-color: white;
+    opacity: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.checkbox:hover{
+    background-color: white;
+    opacity: 70%; 
+}
+
+.chexbox{
+    text-align: left;
+    align-items: left;
+}
+
+.register-button{
+    opacity: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px;
+}
+ 
+.register-button:hover{
+    opacity: 100%;    
+}

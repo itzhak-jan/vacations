@@ -1,0 +1,18 @@
+.add-vacation {
+    display: block;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin: 20px;
+    background-color: white;
+    padding: 20px;
+    opacity: 70%;
+}
+
+.container{
+    width: 300px;
+}
+
+.add-vacation-button{
+    border-radius: 7px;
+}
