@@ -1,0 +1,19 @@
+
+.vacation-container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.vacation-container>.checkbox-div{
+  color: aliceblue;
+}
+
+.checkbox-div{
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.choosen-vacations{
+  display: inline-block;
+}

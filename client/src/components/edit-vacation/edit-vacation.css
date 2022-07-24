@@ -1,0 +1,30 @@
+.Edit-vacation {
+    display: block;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin: 20px;
+    background-color: white;
+    padding: 20px;
+    opacity: 70%;
+
+}
+
+.Edit-container {
+    text-align: left;
+}
+
+.Edit-vacation-button{
+    border-radius: 7px;
+}
+.old{
+    display: inline-block !important;
+    text-align: left;
+    margin-left: 15px;
+}
+.img-old{
+    width: 60px;
+    height: 40px;
+    margin-bottom: -5%;
+    margin-left: 5px;
+}
