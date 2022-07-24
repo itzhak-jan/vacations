@@ -1,0 +1,31 @@
+
+.Statistics{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    background-color: white;
+    padding: 20px;
+    opacity: 80%; 
+
+}
+
+.table-Statistics{
+    border: 1px black solid;
+}
+
+th{
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+
+td{
+    border-top:1px solid black ;
+}
+
+.table-img{
+    width: 50px;
+    height: 50px;
+}
+
